@@ -9,8 +9,8 @@ Bu çalışma, düşük parametreli dil modellerinin (TinyLlama, Gemma, Qwen, Sm
 Aşağıdaki bağlantılardan modellerimize ve veri setimize ulaşabilirsiniz:
 
 ### Modeller (Hugging Face)
-- [TinyLlama-1.1B-TR-Law]((https://huggingface.co/abdullah-altunkaynak/TinyLlama-1.1B-TR-Law)) - *En Yüksek Başarım*
-- [Gemma-2B-TR-Law]((https://huggingface.co/abdullah-altunkaynak/Gemma-2B-TR-Law))
+- [TinyLlama-1.1B-TR-Law](https://huggingface.co/abdullah-altunkaynak/TinyLlama-1.1B-TR-Law) - *En Yüksek Başarım*
+- [Gemma-2B-TR-Law](https://huggingface.co/abdullah-altunkaynak/Gemma-2B-TR-Law)
 - [Qwen-2.5-1.5B-TR-Law](https://huggingface.co/abdullah-altunkaynak/Qwen-2.5-1.5B-TR-Law)
 - [SmolLM2-360M-TR-Law](https://huggingface.co/abdullah-altunkaynak/SmolLM2-360M-TR-Law)
 
