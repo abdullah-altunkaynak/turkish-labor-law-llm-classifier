@@ -27,3 +27,4 @@ Aşağıdaki bağlantılardan modellerimize ve veri setimize ulaşabilirsiniz:
 git clone [https://github.com/](https://github.com/)[KullanıcıAdınız]/turkish-labor-law-llm-classifier
 cd turkish-labor-law-llm-classifier
 pip install -r requirements.txt
+python inference.py --model_name "abdullah-altunkaynak/TinyLlama-1.1B-TR-Law" --text "Mobbing iddiaları hakkında..."
