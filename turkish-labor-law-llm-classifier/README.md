@@ -28,3 +28,15 @@ git clone [https://github.com/](https://github.com/)[KullanıcıAdınız]/turkis
 cd turkish-labor-law-llm-classifier
 pip install -r requirements.txt
 python inference.py --model_name "abdullah-altunkaynak/TinyLlama-1.1B-TR-Law" --text "Mobbing iddiaları hakkında..."
+
+⚙️ Eğitim ve Değerlendirme
+Proje kapsamında kullanılan tüm scriptler /notebooks klasöründe mevcuttur:
+
+train_model.ipynb: QLoRA ile fine-tuning süreci.
+
+evaluate_models.py: Modellerin belirtilen seed (42, 123, 999) değerleri ile test edilmesi.
+
+📦 Gereksinimler (requirements.txt)
+Projenin çalışması için gereken tüm kütüphaneler için:
+pip install -r requirements.txt komutunu kullanın.
+(requirements.txt içeriği: transformers, peft, datasets, bitsandbytes, torch, scikit-learn, pandas)
